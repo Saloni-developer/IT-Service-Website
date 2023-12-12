@@ -38,6 +38,9 @@
     text-align: justify;
     margin:0px 20px ;
 }
+.center1 button{
+    margin-left: 20px;
+}
 .center2 img{
     margin: 20px ;
    
@@ -69,6 +72,22 @@
 .icon p{
     text-align: center;
 }
+span{
+    display: none;
+}
+.read{ 
+     background: #1c1f20;
+    border-radius: 15px;
+    padding: 7px 20px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 20px;
+}
+.read:hover{
+    background: white;
+    color: #1c1f20;
+}
+
 
 
 
