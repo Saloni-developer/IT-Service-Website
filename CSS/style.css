@@ -137,8 +137,8 @@
         border: 2px solid rgb(118, 100, 100);
     }
     100%{
-        transform: scale(1.);
-        border: 5px solid rgb(241, 7, 7);
+        transform: scale(1.1);
+        border: 5px solid #1c1f20;
     }
 }
 .test-card p{
